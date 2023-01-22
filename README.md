@@ -1,5 +1,4 @@
 ### Hi there 👋
-### This is a  test file for the nwHacks pre-hackathon workshop on Git.
 ### I am James, a BCS Student, it's nice to meet you!
 
 This is edited on the navigation-bar branch.
