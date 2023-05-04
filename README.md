@@ -4,6 +4,7 @@ I am Delsther James, a Computer Science student at the University of British Col
 Feel free to connect!
 
 📫 Email: jamesedralin@outlook.com
+
 📫 LinkedIn: https://www.linkedin.com/in/dedralin/
 
 <!--
