@@ -1,6 +1,10 @@
-### Hi there 👋
-### I am James, a BCS Student, it's nice to meet you!
+### Hello there 👋
+I am Delsther James, a Computer Science student at the University of British Columbia (UBC). I also studied Architectural Design in my first degree. I am committed to expanding my knowledge and skills to make a meaningful impact and create new things.
 
+Feel free to connect!
+
+📫 Email: jamesedralin@outlook.com
+📫 LinkedIn: https://www.linkedin.com/in/dedralin/
 
 <!--
 **jamesedra/jamesedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
