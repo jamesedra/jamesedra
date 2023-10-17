@@ -3,9 +3,11 @@ I am Delsther James, a Computer Science student at the University of British Col
 
 Feel free to connect!
 
-📫 Email: jamesedralin@outlook.com
+📫 Email: delstherjamese@gmail.com
 
 📫 LinkedIn: https://www.linkedin.com/in/dedralin/
+
+📫 BlogFolio: https://edra-blogfolio.vercel.app/
 
 <!--
 **jamesedra/jamesedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
