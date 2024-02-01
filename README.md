@@ -1,6 +1,3 @@
-### Hello there 👋
-I am Delsther James, a Computer Science student at the University of British Columbia (UBC). I also studied Architectural Design in my first degree. I am committed to expanding my knowledge and skills to make a meaningful impact and create new things.
-
 Feel free to connect!
 
 📫 Email: delstherjamese@gmail.com
