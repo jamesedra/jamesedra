@@ -1,5 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/jamesedra/blog-portfolio/master/public/images/design-concept.PNG" alt="pixel-art" height="250"/>
-
+<img align="right" src="https://raw.githubusercontent.com/jamesedra/blog-portfolio/master/public/images/design-concept.PNG" alt="pixel-art" height="265"/>
 CS Student. Currently learning Unity and Software Dev.
 
 📫 Email: delstherjamese@gmail.com
@@ -9,7 +8,7 @@ CS Student. Currently learning Unity and Software Dev.
 📫 BlogFolio: https://edra-blogfolio.vercel.app/
 
 
-### Languages, Libraries, Tools:
+##
 
 [![Tools](https://skillicons.dev/icons?i=unity,cs,cpp,c,java,py&theme=dark)](https://skillicons.dev)
 
