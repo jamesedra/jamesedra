@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/jamesedra/blog-portfolio/master/public/images/design-concept.PNG" alt="pixel-art" width="250"/>
+<img align="right" height="250" src="https://raw.githubusercontent.com/jamesedra/blog-portfolio/master/public/images/design-concept.PNG" alt="pixel-art"/>
 
 CS Student. Currently learning Unity and Software Dev.
 
