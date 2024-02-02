@@ -1,6 +1,6 @@
 <img align="right" height="250" src="https://raw.githubusercontent.com/jamesedra/blog-portfolio/master/public/images/design-concept.PNG" alt="pixel-art"/>
 
-CS Student. Currently learning Unity and Software Dev.
+CS student. Worked on some projects you can find here. Also tweak some stuff in Unity during weekends.
 
 📫 Email: delstherjamese@gmail.com
 
