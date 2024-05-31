@@ -11,7 +11,7 @@ CS student. Worked on some projects you can find here. Also tweak some stuff in 
 
 ##
 
-[![Tools](https://skillicons.dev/icons?i=unity,cs,cpp,c,java,py&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=unreal,unity,cs,cpp,java,py&theme=dark)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,nodejs,mysql&theme=dark)](https://skillicons.dev)
 
