@@ -15,6 +15,8 @@ CS student. Worked on some projects you can find here. Also tweak some stuff in 
 
 [![Tools](https://skillicons.dev/icons?i=react,js,ts,nextjs,tailwind,nodejs,mysql&theme=dark)](https://skillicons.dev)
 
+pull request please
+
 <!--
 **jamesedra/jamesedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
