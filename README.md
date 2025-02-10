@@ -1,4 +1,4 @@
-<img align="right" height="250" src="https://raw.githubusercontent.com/jamesedra/blog-portfolio/master/public/images/design-concept.PNG" alt="pixel-art"/>
+<img align="right" height="225" src="https://raw.githubusercontent.com/jamesedra/blog-portfolio/master/public/images/design-concept.PNG" alt="pixel-art"/>
 
 CS student. Worked on some projects you can find here. Also tweak some stuff in Unreal during weekends.
 
