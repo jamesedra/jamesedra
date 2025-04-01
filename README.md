@@ -2,19 +2,18 @@
 
 CS student. Worked on some projects you can find here. Also tweak some stuff in Unreal during weekends.
 
-📫 Email: delstherjamese@gmail.com
-
-📫 LinkedIn: https://www.linkedin.com/in/dedralin/
-
 📫 ArtStation: https://www.artstation.com/jamesedra
 
 📫 BlogFolio: https://edra-blogfolio.vercel.app/
-
 
 ##
 
 [![Tools](https://skillicons.dev/icons?i=unreal,cpp,py,blender&theme=dark)](https://skillicons.dev)
 
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesedra&theme=dark&hide_border=false" height="150" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesedra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages">
+</p>
 <!--
 **jamesedra/jamesedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
