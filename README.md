@@ -1,6 +1,10 @@
-<img align="right" height="225" src="https://raw.githubusercontent.com/jamesedra/blog-portfolio/master/public/images/design-concept.PNG" alt="pixel-art"/>
+🌱 CS student mainly on the 3D graphics and rendering side. 
 
-CS student. Worked on some projects you can find here. Also tweak some stuff in Unreal during weekends.
+🔭 I also tweak some stuff in Unreal Engine during weekends.
+
+<img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif" alt="pixel-ray" style="height:255px; width:auto;"/><img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/water-reflections.gif" alt="pixel-reflections" style="height:255px; width:auto;"/>
+
+You can find on some projects I worked on as well as the sites below:
 
 📫 ArtStation: https://www.artstation.com/jamesedra
 
