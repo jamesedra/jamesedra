@@ -2,7 +2,7 @@
 
 🔭 I also tweak some stuff in Unreal Engine during weekends.
 
-<img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif" alt="pixel-ray" style="height:175px; width:auto;"/><img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/water-reflections.gif" alt="pixel-reflections" style="height:175px; width:auto;"/>
+<img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif" alt="pixel-ray" style="height:200px; width:auto;"/><img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/water-reflections.gif" alt="pixel-reflections" style="height:200px; width:auto;"/>
 
 You can find on some projects I worked on as well as the sites below:
 
