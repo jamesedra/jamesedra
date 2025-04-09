@@ -1,10 +1,10 @@
-🌱 CS student mainly on the 3D graphics and rendering side. 
+🌱 CS student. Mainly on the computer graphics and rendering side. 
 
-🔭 I also tweak some stuff in Unreal Engine during weekends.
+🔭 I also do some rendering and shader development in Unreal Engine during weekends.
 
-<img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif" alt="pixel-ray" style="height:200px; width:auto;"/><img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/water-reflections.gif" alt="pixel-reflections" style="height:200px; width:auto;"/>
+<img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif" alt="pixel-ray" style="height:200px; width:auto;"/> <img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/moebius.gif" alt="pixel-reflections" style="height:200px; width:auto;"/>
 
-You can find on some projects I worked on as well as the sites below:
+You can find on some projects I worked on as well on the sites below:
 
 📫 ArtStation: https://www.artstation.com/jamesedra
 
@@ -15,7 +15,7 @@ You can find on some projects I worked on as well as the sites below:
 [![Tools](https://skillicons.dev/icons?i=unreal,cpp,py,blender&theme=dark)](https://skillicons.dev)
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesedra&theme=dark&hide_border=false" height="150" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesedra&theme=dark&hide_border=false" height="150" alt="Streak Stats"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesedra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages">
 </p>
 <!--
