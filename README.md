@@ -4,15 +4,13 @@
 
 <img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif" alt="pixel-ray" style="height:200px; width:auto;"/> <img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/moebius.gif" alt="pixel-reflections" style="height:200px; width:auto;"/>
 
-You can find on some projects I worked on as well on the sites below:
+You can find on some projects I worked on as well on the links below:
 
-📫 ArtStation: https://www.artstation.com/jamesedra
-
-📫 BlogFolio: https://edra-blogfolio.vercel.app/
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/jamesedra)  [![Vercel](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://edra-blogfolio.vercel.app/)
 
 ##
+[![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) [![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)](https://www.khronos.org/opengl/) [![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) [![gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)](https://www.gimp.org/)
 
-[![Tools](https://skillicons.dev/icons?i=unreal,cpp,py,blender&theme=dark)](https://skillicons.dev)
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamesedra&theme=dark&hide_border=false" height="150" alt="Streak Stats"> 
