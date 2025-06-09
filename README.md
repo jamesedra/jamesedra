@@ -1,5 +1,7 @@
 🌱 CS student. Mainly on the computer graphics and rendering side. 
 
+<img src="https://github.com/user-attachments/assets/13124b81-6199-40fa-b1cd-6d4bebd7a508" alt="pixel-ray" style="height:215px; width:auto;"/> <img src="https://github.com/user-attachments/assets/1b361abd-fe30-4b37-8a35-678acb92daba" alt="pixel-reflections" style="height:215px; width:auto;"/>
+
 🔭 I also do some rendering and shader development in Unreal Engine during weekends.
 
 <img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif" alt="pixel-ray" style="height:200px; width:auto;"/> <img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/moebius.gif" alt="pixel-reflections" style="height:200px; width:auto;"/>
