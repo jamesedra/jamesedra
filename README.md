@@ -1,10 +1,11 @@
 🌱 CS student. Mainly on the computer graphics and rendering side. 
 
-<img src="https://github.com/user-attachments/assets/13124b81-6199-40fa-b1cd-6d4bebd7a508" alt="pixel-ray" style="height:215px; width:auto;"/> <img src="https://github.com/user-attachments/assets/1b361abd-fe30-4b37-8a35-678acb92daba" alt="pixel-reflections" style="height:215px; width:auto;"/>
+<img src="https://github.com/user-attachments/assets/13124b81-6199-40fa-b1cd-6d4bebd7a508" alt="engine" style="height:215px; width:auto;"/> <img src="https://github.com/user-attachments/assets/1b361abd-fe30-4b37-8a35-678acb92daba" alt="engine-pbr" style="height:215px; width:auto;"/>
 
 🔭 I also do some rendering and shader development in Unreal Engine during weekends.
 
-<img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif" alt="pixel-ray" style="height:200px; width:auto;"/> <img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/moebius.gif" alt="pixel-reflections" style="height:200px; width:auto;"/>
+<img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif" alt="pixel-ray" style="height:200px; width:auto;"/> <img src="https://github.com/user-attachments/assets/f0c21bdf-2434-4ada-9af2-29d5dcd2a11f" alt="pixel-reflections" style="height:200px; width:auto;"/>
+<img src="https://github.com/user-attachments/assets/eff6c29c-16ab-49f9-bc85-7ac69cf4ea8b" alt="painterly" style="height:200px; width:auto;"/> <img src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/moebius.gif" alt="moebius" style="height:200px; width:auto;"/>
 
 You can find on some projects I worked on as well on the links below:
 
