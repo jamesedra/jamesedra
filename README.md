@@ -18,30 +18,42 @@
 
 ##
 
+### Physically Based Path Tracing
+
+<sub>Custom path tracer · Direct3D 12 · HLSL</sub>
+
 <img
   src="https://github.com/user-attachments/assets/43e77c8f-459d-4e9d-bc7f-97a50ba53692"
-  alt="sponza-base-pbr"
+  alt="Sponza rendered with custom physically based path tracer"
   width="98%"
 />
 
+### Real-Time Rendering
+
+<sub><b>Left:</b> Material and lighting studies in a custom OpenGL / GLSL renderer · <b>Right:</b> Custom game engine built with OpenGL / GLSL</sub>
+
 <img
   src="https://github.com/user-attachments/assets/1b361abd-fe30-4b37-8a35-678acb92daba"
-  alt="engine-pbr"
+  alt="Physically based rendering in custom OpenGL renderer"
   width="45%"
 />
 <img
   src="https://github.com/user-attachments/assets/2f76baae-2271-4238-83ad-6570143000e3"
-  alt="game"
+  alt="Rendering in custom game engine"
   width="53%"
 />
 
+### Stylized / Non-Photorealistic Rendering
+
+<sub>Unreal Engine 5 · Custom materials · procedural environment</sub>
+
 <img
   src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/ray-marching.gif"
-  alt="pixel-ray"
+  alt="Stylized environment rendered in Unreal Engine 5"
   width="49%"
 />
 <img
   src="https://github.com/user-attachments/assets/f0c21bdf-2434-4ada-9af2-29d5dcd2a11f"
-  alt="pixel-reflections"
+  alt="Stylized environment rendered in Unreal Engine 5"
   width="49%"
 />
