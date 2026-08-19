@@ -19,7 +19,7 @@
 ##
 
 <img
-  src="https://github.com/user-attachments/assets/8127b1e4-33f7-4f61-a00b-fd3e67ebce93"
+  src="https://github.com/user-attachments/assets/43e77c8f-459d-4e9d-bc7f-97a50ba53692"
   alt="sponza-base-pbr"
   width="98%"
 />
@@ -43,16 +43,5 @@
 <img
   src="https://github.com/user-attachments/assets/f0c21bdf-2434-4ada-9af2-29d5dcd2a11f"
   alt="pixel-reflections"
-  width="49%"
-/>
-
-<img
-  src="https://github.com/user-attachments/assets/b4586ea6-2605-4fe3-b696-03be2894728d"
-  alt="painterly"
-  width="49%"
-/>
-<img
-  src="https://raw.githubusercontent.com/jamesedra/jamesedra/master/data/moebius.gif"
-  alt="moebius"
   width="49%"
 />
